@@ -1,0 +1,19 @@
+{
+  "name": "@imooc-cli-dev-anke/core",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "anke <245783065@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Testing run core\""
+  }
+}
