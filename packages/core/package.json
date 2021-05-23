@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-dev-anke/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "mooc-cli-dev-anke/core",
   "author": "anke <245783065@qq.com>",
   "homepage": "",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Testing run core\""
-  }
+  },
+  "gitHead": "22924c3559b3a6346c17f065cbb9e5d56875e33a"
 }
